@@ -37,7 +37,7 @@
 	- [Create SMP/E environment (optional)](#create-smp-e-environment-optional)
 	- [Perform SMP/E RECEIVE](#perform-smp-e-receive)
 	- [Allocate SMP/E Target and Distributions Libraries](#allocate-smp-e-target-and-distributions-libraries)
-	- [Allocate, create and mount ZSF Files (Optional)](#allocate-create-and-mount-zsf-files-optional)
+	- [Allocate, create and mount zFS Files (Optional)](#allocate-create-and-mount-zFS-files-optional)
 	- [Allocate z/OS UNIX Paths](#allocate-z-os-unix-paths)
 	- [Create DDDEF Entries](#create-dddef-entries)
 	- [Perform SMP/E APPLY](#perform-smp-e-apply)
